@@ -1,0 +1,29 @@
+[
+{
+  "enabled": "true",
+  "id": "hodplacewellwinch",
+  "graphicCode": "hodblocks:winch-oak-east",
+  "criteriaType": "CreateAnyFromGridRecipe",
+  "criteriaData": [
+    "hodblocks:winch*"
+  ]
+},
+{
+"enabled": "true",
+"id": "hodplacekeg",
+"graphicCode": "hodblocks:kegtapped",
+"criteriaType": "CreateAnyFromGridRecipe",
+"criteriaData": [
+"hodblocks:keg"
+]
+},
+{
+"enabled": "true",
+"id": "hodplacetun",
+"graphicCode": "hodblocks:tun-east",
+"criteriaType": "CreateAnyFromGridRecipe",
+"criteriaData": [
+"hodblocks:tun*"
+]
+}
+]

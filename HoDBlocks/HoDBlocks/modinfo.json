@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "hodblocks",
+    "name": "HoD Blocks",
+    "authors": [
+        "Chronolegionnaire"
+    ],
+    "description": "Adds the Keg, Tun, and Well-Winch from HoD",
+    "version": "1.0.9",
+    "dependencies": {
+        "game": ""
+    }
+}
